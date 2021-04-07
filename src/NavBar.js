@@ -26,7 +26,7 @@ export default class NavBar extends Component {
                         </Link>
                     </div>
                     <div class="m-3">
-                        <h1>Amazon Transcribe Medical</h1>
+                        <h1>HCA Flo</h1>
                     </div>
                 </header>
             </div>
